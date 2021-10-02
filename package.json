@@ -1,0 +1,24 @@
+{
+    "name": "m06-01-bootstrap",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "purgecss --css ejemplo-Bluuweb/css/custom.css --content index.html --output ejemplo-Bluuweb/css/purged.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://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@github.com/MarioBurgos/M06-01-Bootstrap.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MarioBurgos/M06-01-Bootstrap/issues"
+    },
+    "homepage": "https://github.com/MarioBurgos/M06-01-Bootstrap#readme",
+    "dependencies": {
+        "bootstrap": "^5.0.0-beta3"
+    }
+}
