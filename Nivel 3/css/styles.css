@@ -74,6 +74,11 @@
           transform: scale(1.05);
 }
 
+.h5 {
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
 /*Custom Classes*/
 .bg-yummy {
   background-image: url("../images/background/bg-yummy.jpg");
