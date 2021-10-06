@@ -1,0 +1,13 @@
+@media (min-width: 768px) {
+    .alto-100 {
+        height: 100vh;
+    }
+}
+
+/*colors*/
+$primary: #2a2521;
+$danger: #A45D5D;
+$warning: #FFC069;
+$light: #EFEFEF;
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
