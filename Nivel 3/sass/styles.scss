@@ -48,6 +48,18 @@ $light: #efefef;
 .card:hover{
     transform: scale(1.05);
 }
+.custom-carousel-caption {
+    position: absolute;
+  right: 0%;
+  bottom: 1.25rem;
+  left: 0%;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  color: #fff;
+  opacity: .5;
+  text-align: center;
+  }
+
 .h5{
     font-weight: 800;
     font-size: 1.5rem;
